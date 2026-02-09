@@ -94,18 +94,6 @@ This project demonstrates a comprehensive data science workflow for air quality 
 3. **Temporal Modeling**: ARIMA/LSTM for better time-series capture
 4. **Uncertainty Quantification**: Confidence intervals for operational decisions
 
-## File Structure
-```
-├── notebook.ipynb          # Main analysis notebook
-├── keys.py                 # API credentials (excluded from git)
-├── data/                   # Data files (excluded from git)
-│   ├── data_air_quality_milan.csv
-│   ├── data_weather_milan.csv
-│   └── data_weather_air_quality_milan.csv
-├── .gitignore              # Git ignore rules
-└── README.md               # This file
-```
-
 ## Author
 
 Michele Turco
